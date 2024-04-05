@@ -7,7 +7,7 @@ Author: Naufal Salahuddin
 */
 
 class NH_User_Mailchimp_Sync {
-    private $plugin_name = 'user_mailchimp_sync';
+    private $plugin_name = 'nh_mailchimp_user_sync';
     private $user_keys = array('first_name','last_name','user_name','display_name','id','email','nick_name','website','meta_key');
 
     public function __construct() {
