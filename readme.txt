@@ -36,7 +36,7 @@ Support and Feedback
 For support, questions, or feedback, please contact us at support@example.com. We're here to help!
 
 Premium Version
-Unlock additional features and functionality with the premium version of the WordPress Mailchimp Sync Plugin. Contact us at sales@example.com to learn more about our premium offerings.
+Unlock additional features and functionality with the premium version of the WordPress Mailchimp Sync Plugin. Contact me at naufal123salah@gmail.com to learn more about premium offerings.
 
 License
 This plugin is released under the GPLv2 or later license.
