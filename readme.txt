@@ -1,5 +1,5 @@
 === WordPress Mailchimp Sync Plugin ===
-Contributors: naufal_salahuddin
+Contributors: ibnesalah
 Tags: mailchimp, sync, users, email, automation
 Requires at least: 4.7
 Tested up to: 5.4
